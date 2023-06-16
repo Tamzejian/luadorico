@@ -20,6 +20,7 @@ for i = 1, 4 do
     end
 end
 
+--[[ How does this work ? --]]
 var[1] = {158,185.5}
 var[2] = {177.5,182.5}
 var[3] = {196,179.5}
